@@ -1,7 +1,7 @@
 DTW_ECG_Classifier
 ===================
 # This repository contains the code, data, and results for the DTW_ECG_Classifier Project
-This is originally an assignment from one of the courses in my master at Østfold University Collage
+This is originally an assignment from one of the courses in my master at Østfold University Collage:
 ITI41820 Advanced Topics in Machine Learning
 The assignment was graded as an A
 
